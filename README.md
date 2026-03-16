@@ -1,12 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:4f46e5&height=200&section=header&text=Agustin%20Perrone&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:4f46e5&height=220&section=header&text=Agustin%20Perrone&fontSize=45&fontColor=ffffff" />
 
-# 👋 Hola! Soy Agustín Perrone
+# 👋 Hola, soy Agustín Perrone
 
 💻 Desarrollador Web
 🚀 Especializado en **Python y desarrollo web**
 🌎 Uruguay
 
-Actualmente trabajo creando aplicaciones web, automatizaciones y herramientas usando Python.
+Actualmente desarrollo aplicaciones web, sistemas internos y herramientas de automatización con Python.
 
 ---
 
@@ -19,15 +19,28 @@ class AgustinPerrone:
         self.name = "Agustin Perrone"
         self.country = "Uruguay"
         self.role = "Web Developer"
-        self.languages = ["Python", "JavaScript", "HTML", "CSS"]
-        self.frameworks = ["Flask"]
-        self.tools = ["Git", "Postman"]
+
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ]
+
+        self.frameworks = [
+            "Flask"
+        ]
+
+        self.tools = [
+            "Git",
+            "Postman"
+        ]
 
     def current_focus(self):
         return [
-            "Web development",
-            "Automation with Python",
+            "Web Development",
             "Backend systems",
+            "Automation with Python",
             "Building useful tools"
         ]
 ```
@@ -56,9 +69,15 @@ class AgustinPerrone:
 
 # 📊 Estadísticas de GitHub
 
-![Agustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Agustin1112\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agustin1112\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin1112\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin1112\&layout=compact\&theme=tokyonight)
+
+---
+
+# 📈 Actividad
+
+[![Agustin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Agustin1112\&theme=tokyo-night)](https://github.com/Agustin1112)
 
 ---
 
@@ -66,7 +85,7 @@ class AgustinPerrone:
 
 ### 💼 Portafolio Web
 
-Portfolio personal donde muestro mis proyectos y habilidades como desarrollador.
+Portfolio personal donde muestro mis proyectos y habilidades.
 
 🔗 https://portafolio-agus-gamma.vercel.app/
 
@@ -74,9 +93,9 @@ Portfolio personal donde muestro mis proyectos y habilidades como desarrollador.
 
 ### 🎫 Sistema de gestión de tickets
 
-Aplicación web para administrar tickets de soporte y solicitudes internas.
+Aplicación web para administrar tickets de soporte.
 
-Tecnologías:
+Tecnologías utilizadas:
 
 * Python
 * Flask
@@ -88,13 +107,16 @@ Tecnologías:
 
 ### ⚙️ Automatización con Python
 
-Scripts y herramientas para automatizar procesos y tareas repetitivas.
+Scripts y herramientas para automatizar tareas y procesos.
 
 ---
 
-# 📈 Actividad
+# 📚 Actualmente aprendiendo
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Agustin1112\&theme=tokyonight)
+* Arquitectura backend
+* APIs REST
+* Automatización avanzada con Python
+* Optimización de aplicaciones Flask
 
 ---
 
@@ -110,7 +132,5 @@ https://portafolio-agus-gamma.vercel.app/
 [agustinperrone620@gmail.com](mailto:agustinperrone620@gmail.com)
 
 ---
-
-⭐ Siempre abierto a colaborar en proyectos interesantes y seguir aprendiendo nuevas tecnologías.
 
 ![](https://komarev.com/ghpvc/?username=Agustin1112\&color=blue)
