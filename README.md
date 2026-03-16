@@ -88,12 +88,18 @@ class AgustinPerrone:
 
 ---
 
+# 🐍 Contribuciones
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
 # 🚀 Proyectos
 
 Aquí podés explorar algunos de los proyectos en los que estuve trabajando.
 En mis repositorios vas a encontrar aplicaciones web, automatizaciones con Python y distintos experimentos de desarrollo.
 
-🔎 Ver todos mis repositorios:
+🔎 Ver todos mis repositorios
 👉 https://github.com/Agustin1112?tab=repositories
 
 ---
