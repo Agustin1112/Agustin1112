@@ -6,7 +6,7 @@
 🚀 Especializado en **Python y desarrollo web**
 🌎 Uruguay
 
-Actualmente desarrollo aplicaciones web, sistemas internos y herramientas de automatización con Python.
+Me enfoco en crear aplicaciones web, sistemas internos y automatizaciones utilizando Python.
 
 ---
 
@@ -33,12 +33,13 @@ class AgustinPerrone:
 
         self.tools = [
             "Git",
-            "Postman"
+            "Postman",
+            "VS Code"
         ]
 
     def current_focus(self):
         return [
-            "Web Development",
+            "Web development",
             "Backend systems",
             "Automation with Python",
             "Building useful tools"
@@ -47,23 +48,44 @@ class AgustinPerrone:
 
 ---
 
-# 🚀 Tecnologías
+# 🚀 Tecnologías y herramientas
 
-### Backend
+### 🧠 Lenguajes
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+</p>
 
-### Frontend
+---
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+### ⚙️ Frameworks
 
-### Herramientas
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+---
+
+### 🗄️ Base de datos
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+</p>
+
+---
+
+### 🛠️ Herramientas
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
+</p>
 
 ---
 
@@ -93,7 +115,7 @@ Portfolio personal donde muestro mis proyectos y habilidades.
 
 ### 🎫 Sistema de gestión de tickets
 
-Aplicación web para administrar tickets de soporte.
+Aplicación web para administrar tickets de soporte y solicitudes internas.
 
 Tecnologías utilizadas:
 
