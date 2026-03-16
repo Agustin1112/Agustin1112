@@ -1,12 +1,15 @@
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:4f46e5&height=220&section=header&text=Agustin%20Perrone&fontSize=45&fontColor=ffffff" />
+</p>
 
 # 👋 Hola, soy Agustín Perrone
 
-💻 Desarrollador Web
-🚀 Especializado en **Python y desarrollo web**
-🌎 Uruguay
+💻 **Desarrollador Web enfocado en Python y sistemas backend.**
 
-Me enfoco en crear aplicaciones web, sistemas internos y automatizaciones utilizando Python.
+Me gusta crear aplicaciones web, automatizar procesos
+y construir herramientas que resuelvan problemas reales.
+
+🌎 Uruguay
 
 ---
 
@@ -52,25 +55,40 @@ class AgustinPerrone:
 
 ### 🧠 Lenguajes
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/> Python <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/> JavaScript <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/> HTML <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> CSS
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/> Python &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/> JavaScript &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/> HTML &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> CSS
+</p>
 
 ---
 
 ### ⚙️ Frameworks
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25"/> Flask
+</p>
 
 ---
 
 ### 🗄️ Base de datos
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25"/> SQLite <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25"/> PostgreSQL
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25"/> SQLite &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25"/> PostgreSQL
+</p>
 
 ---
 
 ### 🛠️ Herramientas
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25"/> Git <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25"/> GitHub <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25"/> VS Code <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="25"/> Postman
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25"/> Git &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25"/> GitHub &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25"/> VS Code &nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="25"/> Postman
+</p>
 
 ---
 
@@ -96,10 +114,10 @@ class AgustinPerrone:
 
 # 🚀 Proyectos
 
-Aquí podés explorar algunos de los proyectos en los que estuve trabajando.
-En mis repositorios vas a encontrar aplicaciones web, automatizaciones con Python y distintos experimentos de desarrollo.
+En mis repositorios vas a encontrar aplicaciones web,
+automatizaciones con Python y distintos experimentos de desarrollo.
 
-🔎 Ver todos mis repositorios
+🔎 Explorar todos mis repositorios
 👉 https://github.com/Agustin1112?tab=repositories
 
 ---
