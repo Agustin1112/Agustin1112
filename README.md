@@ -36,27 +36,22 @@ class AgustinPerrone:
             "Postman",
             "VS Code"
         ]
-
-    def current_focus(self):
-        return [
-            "Web development",
-            "Backend systems",
-            "Automation with Python",
-            "Building useful tools"
-        ]
 ```
 
 ---
 
-# 🚀 Tecnologías y herramientas
+# 🚀 Tecnologías
 
 ### 🧠 Lenguajes
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/> Python  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/> JavaScript  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/> HTML  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> CSS  
 </p>
 
 ---
@@ -64,7 +59,7 @@ class AgustinPerrone:
 ### ⚙️ Frameworks
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25"/> Flask
 </p>
 
 ---
@@ -72,8 +67,9 @@ class AgustinPerrone:
 ### 🗄️ Base de datos
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25"/> SQLite  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25"/> PostgreSQL
 </p>
 
 ---
@@ -81,10 +77,13 @@ class AgustinPerrone:
 ### 🛠️ Herramientas
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25"/> Git  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25"/> GitHub  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25"/> VS Code  
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="25"/> Postman  
 </p>
 
 ---
@@ -103,46 +102,37 @@ class AgustinPerrone:
 
 ---
 
-# 🧠 Proyectos destacados
+# 🧠 Proyectos
 
 ### 💼 Portafolio Web
 
-Portfolio personal donde muestro mis proyectos y habilidades.
+Portfolio personal donde muestro mis proyectos.
 
 🔗 https://portafolio-agus-gamma.vercel.app/
 
 ---
 
-### 🎫 Sistema de gestión de tickets
+### 🎫 Sistema de tickets
 
-Aplicación web para administrar tickets de soporte y solicitudes internas.
+Aplicación web para administrar solicitudes y soporte interno.
 
-Tecnologías utilizadas:
+Stack:
 
-* Python
-* Flask
-* HTML
-* CSS
-* JavaScript
+Python
+Flask
+HTML
+CSS
+JavaScript
 
 ---
 
 ### ⚙️ Automatización con Python
 
-Scripts y herramientas para automatizar tareas y procesos.
+Scripts para automatizar tareas y procesos.
 
 ---
 
-# 📚 Actualmente aprendiendo
-
-* Arquitectura backend
-* APIs REST
-* Automatización avanzada con Python
-* Optimización de aplicaciones Flask
-
----
-
-# 🌐 Conectemos
+# 🌐 Contacto
 
 💼 LinkedIn
 https://www.linkedin.com/in/agustin-perrone
