@@ -1,48 +1,123 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:4f46e5&height=220&section=header&text=Agustin%20Perrone&fontSize=45&fontColor=ffffff" />
+
+# 👋 Hola, soy Agustín Perrone
+
+💻 Desarrollador Web
+🚀 Especializado en **Python y desarrollo web**
+🌎 Uruguay
+
+Me enfoco en crear aplicaciones web, sistemas internos y automatizaciones utilizando Python.
+
+---
+
+# 🧑‍💻 Sobre mí
+
+```python
+class AgustinPerrone:
+
+    def __init__(self):
+        self.name = "Agustin Perrone"
+        self.country = "Uruguay"
+        self.role = "Web Developer"
+
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ]
+
+        self.frameworks = [
+            "Flask"
+        ]
+
+        self.tools = [
+            "Git",
+            "Postman",
+            "VS Code"
+        ]
+
+    def current_focus(self):
+        return [
+            "Web development",
+            "Backend systems",
+            "Automation with Python",
+            "Building useful tools"
+        ]
+```
+
+---
+
+# 🚀 Tecnologías
+
+### 🧠 Lenguajes
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/> Python <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25"/> JavaScript <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25"/> HTML <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25"/> CSS
+
+---
+
+### ⚙️ Frameworks
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="25"/> Flask
+
+---
+
+### 🗄️ Base de datos
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="25"/> SQLite <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25"/> PostgreSQL
+
+---
+
+### 🛠️ Herramientas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25"/> Git <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25"/> GitHub <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25"/> VS Code <br> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="25"/> Postman
+
+---
+
+# 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agustin1112\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin1112\&layout=compact\&theme=tokyonight)
+
+---
+
+# 📈 Actividad
+
+[![Agustin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Agustin1112\&theme=tokyo-night)](https://github.com/Agustin1112)
+
+---
+
 # 🚀 Proyectos
 
 Aquí podés explorar algunos de los proyectos en los que estuve trabajando.
-Cada repositorio incluye el código, documentación y detalles de implementación.
+En mis repositorios vas a encontrar aplicaciones web, automatizaciones con Python y distintos experimentos de desarrollo.
+
+🔎 Ver todos mis repositorios:
+👉 https://github.com/Agustin1112?tab=repositories
 
 ---
 
-### 💼 Portafolio Web
+# 📚 Actualmente aprendiendo
 
-Mi sitio web personal donde presento mis proyectos, habilidades y experiencia como desarrollador.
+* Arquitectura backend
+* APIs REST
+* Automatización avanzada con Python
+* Optimización de aplicaciones Flask
 
-🔗 Ver repositorio
-https://github.com/Agustin1112
+---
 
-🌐 Ver sitio web
+# 🌐 Contacto
+
+💼 LinkedIn
+https://www.linkedin.com/in/agustin-perrone
+
+🌍 Portfolio
 https://portafolio-agus-gamma.vercel.app/
 
----
-
-### 🎫 Sistema de Gestión de Tickets
-
-Aplicación web desarrollada para gestionar solicitudes, incidencias y tickets de soporte.
-
-Stack utilizado:
-
-Python
-Flask
-HTML
-CSS
-JavaScript
-
-🔗 Explorar repositorio
-https://github.com/Agustin1112
+📧 Email
+[agustinperrone620@gmail.com](mailto:agustinperrone620@gmail.com)
 
 ---
 
-### ⚙️ Automatización con Python
-
-Scripts y herramientas diseñadas para automatizar procesos y tareas repetitivas.
-
-Incluye:
-
-Automatización de procesos
-Procesamiento de datos
-Herramientas internas
-
-🔗 Ver repositorios relacionados
-https://github.com/Agustin1112
+![](https://komarev.com/ghpvc/?username=Agustin1112\&color=blue)
