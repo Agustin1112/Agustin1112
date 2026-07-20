@@ -1,163 +1,63 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:4f46e5&height=220&section=header&text=Agustin%20Perrone&fontSize=45&fontColor=ffffff" />
-</p>
+# Hola, soy Agustín Perrone 👋
 
-# 👋 Hola, soy Agustín Perrone
-
-💻 **Desarrollador Web enfocado en Python y sistemas backend.**
-
-Me gusta crear aplicaciones web, automatizar procesos
-y construir herramientas que resuelvan problemas reales.
+Desarrollador backend enfocado en Python. Construyo aplicaciones web a medida, portales de clientes y automatizaciones que resuelven problemas reales — desde e-commerce hasta sistemas de gestión para pequeños negocios y emprendedoras.
 
 🌎 Uruguay
+🌍 Portfolio: [portafolio-agustin-perrone.up.railway.app](https://portafolio-agustin-perrone.up.railway.app/)
+💼 LinkedIn: [in/agustin-perrone](https://www.linkedin.com/in/agustin-perrone/)
+📧 agustinperrone620@gmail.com
 
 ---
 
-# 🧑‍💻 Sobre mí
+## Qué hago
 
-```python id="s9y1rz"
-class AgustinPerrone:
+- Sitios y aplicaciones web a medida (no plantillas genéricas)
+- Portales de clientes con autenticación y pagos integrados (Mercado Pago)
+- APIs REST con Flask, FastAPI y Django
+- Automatización de procesos con Python
+- Integración y gestión de bases de datos (PostgreSQL, MySQL, SQLite)
 
-    def __init__(self):
-        self.name = "Agustin Perrone"
-        self.country = "Uruguay"
-        self.role = "Web Developer"
+## Stack
 
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "HTML",
-            "CSS"
-        ]
-
-        self.frameworks = [
-            "Flask",
-            "FastAPI",
-            "Django"
-        ]
-
-        self.databases = [
-            "SQLite",
-            "PostgreSQL",
-            "MySQL"
-        ]
-
-        self.tools = [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "Postman",
-            "SQLyog"
-        ]
-
-    def current_focus(self):
-        return [
-            "Web development",
-            "Backend systems",
-            "REST APIs",
-            "Automation with Python",
-            "Building useful tools"
-        ]
-```
+**Lenguajes:** Python · JavaScript · HTML · CSS
+**Backend:** Flask · FastAPI · Django
+**Bases de datos:** PostgreSQL · MySQL · SQLite
+**Herramientas:** Git · GitHub · VS Code · Postman
+**E-commerce:** Shopify · WooCommerce
+**Pagos:** Mercado Pago
 
 ---
 
-# 🚀 Tecnologías
+## Proyectos destacados
 
-### 🧠 Lenguajes
+### [Vale Stendelis Fitness](https://www.valestendelis.uy)
+Plataforma completa para entrenadora personal: landing de conversión, planes con pago vía Mercado Pago o transferencia, y portal privado donde las clientas ven sus rutinas y registran su progreso.
+`Flask` `JavaScript` `Portal de clientas` `Pagos`
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> Python &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> JavaScript &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/> HTML &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/> CSS
-</p>
+### [Nanii Fitness](https://nanii-fitness.up.railway.app/)
+Sitio en modo oscuro con planes y precios, sección "antes y después", testimonios moderados y portal de clientas con pagos integrados.
+`Flask` `JavaScript` `Portal de clientas` `Pagos`
 
----
+### [Somos Fit 4.0](https://somos-fit40-production.up.railway.app/)
+Sitio para un dúo de entrenadoras con planes especializados, integración con redes sociales y portal de clientas con flujo de pago y alta de cuenta.
+`Flask` `JavaScript` `Portal de clientas` `Pagos`
 
-### ⚙️ Backend / Frameworks
+### [App de Reserva de Salones](https://github.com/Agustin1112/Club-de-Funcionarios-ptuy4)
+App para la empresa Anda donde los funcionarios reservan salones de eventos.
+`React` `Flask` `API`
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30"/> Flask &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30"/> FastAPI &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30"/> Django &nbsp;&nbsp;
-🔗 REST APIs
-</p>
+🔎 Ver todos mis repositorios → [github.com/Agustin1112?tab=repositories](https://github.com/Agustin1112?tab=repositories)
 
 ---
 
-### 🗄️ Base de datos
+## Estadísticas
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30"/> SQLite &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30"/> PostgreSQL &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/> MySQL
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agustin1112&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin1112&layout=compact&theme=tokyonight)
 
----
+## Actualmente aprendiendo
 
-### 🛠️ Herramientas
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/> Git &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/> GitHub &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/> VS Code &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30"/> Postman &nbsp;&nbsp;
-🗄️ SQLyog
-</p>
-
----
-
-# 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agustin1112\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin1112\&layout=compact\&theme=tokyonight)
-
----
-
-# 📈 Actividad
-
-[![Agustin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Agustin1112\&theme=tokyo-night)](https://github.com/Agustin1112)
-
----
-
-# 🐍 Contribuciones
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-# 🚀 Proyectos
-
-En mis repositorios vas a encontrar aplicaciones web,
-automatizaciones con Python y distintos experimentos de desarrollo.
-
-🔎 Explorar todos mis repositorios
-👉 https://github.com/Agustin1112?tab=repositories
-
----
-
-# 📚 Actualmente aprendiendo
-
-* Arquitectura backend
-* APIs REST
-* Automatización avanzada con Python
-* Optimización de aplicaciones Flask
-
----
-
-# 🌐 Contacto
-
-💼 LinkedIn
-https://www.linkedin.com/in/agustin-perrone
-
-🌍 Portfolio
-https://portafolio-agus-gamma.vercel.app/
-
-📧 Email
-[agustinperrone620@gmail.com](mailto:agustinperrone620@gmail.com)
-
----
-
-![](https://komarev.com/ghpvc/?username=Agustin1112\&color=blue)
+- Arquitectura backend
+- APIs REST avanzadas
+- Automatización avanzada con Python
+- Optimización de aplicaciones Flask
