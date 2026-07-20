@@ -2,7 +2,7 @@
 
 Desarrollador backend enfocado en Python. Construyo aplicaciones web a medida, portales de clientes y automatizaciones que resuelven problemas reales — desde e-commerce hasta sistemas de gestión para pequeños negocios y emprendedoras.
 
-- 🌎 Uruguay
+- 🌎 Uruguay, Montevideo
 - 🌍 Portfolio: [portafolio-agustin-perrone.up.railway.app](https://portafolio-agustin-perrone.up.railway.app/)
 - 💼 LinkedIn: [in/agustin-perrone](https://www.linkedin.com/in/agustin-perrone/)
 - 📧 agustinperrone620@gmail.com
