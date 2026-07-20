@@ -3,7 +3,7 @@
 Desarrollador backend enfocado en Python. Construyo aplicaciones web a medida, portales de clientes y automatizaciones que resuelven problemas reales — desde e-commerce hasta sistemas de gestión para pequeños negocios y emprendedoras.
 
 🌎 Uruguay
-🌍 Portfolio: [portafolio-agustin-perrone.up.railway.app](https://portafolio-agustin-perrone.up.railway.app/)
+Portfolio: [portafolio-agustin-perrone.up.railway.app](https://portafolio-agustin-perrone.up.railway.app/)
 💼 LinkedIn: [in/agustin-perrone](https://www.linkedin.com/in/agustin-perrone/)
 📧 agustinperrone620@gmail.com
 
@@ -19,12 +19,14 @@ Desarrollador backend enfocado en Python. Construyo aplicaciones web a medida, p
 
 ## Stack
 
-**Lenguajes:** Python · JavaScript · HTML · CSS
-**Backend:** Flask · FastAPI · Django
-**Bases de datos:** PostgreSQL · MySQL · SQLite
-**Herramientas:** Git · GitHub · VS Code · Postman
-**E-commerce:** Shopify · WooCommerce
-**Pagos:** Mercado Pago
+| Categoría | Tecnologías |
+|---|---|
+| Lenguajes | Python, JavaScript, HTML, CSS |
+| Backend | Flask, FastAPI, Django |
+| Bases de datos | PostgreSQL, MySQL, SQLite |
+| Herramientas | Git, GitHub, VS Code, Postman |
+| E-commerce | Shopify, WooCommerce |
+| Pagos | Mercado Pago |
 
 ---
 
@@ -49,11 +51,6 @@ App para la empresa Anda donde los funcionarios reservan salones de eventos.
 🔎 Ver todos mis repositorios → [github.com/Agustin1112?tab=repositories](https://github.com/Agustin1112?tab=repositories)
 
 ---
-
-## Estadísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Agustin1112&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Agustin1112&layout=compact&theme=tokyonight)
 
 ## Actualmente aprendiendo
 
